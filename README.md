@@ -51,3 +51,16 @@ $ ./lem-in -of test.map
 ```
 lem-in write solution to `test.sol`
 Visualiser work only with correct data.
+# pictures
+After start Visualiser open default `test.map`.
+![Start Visualiser](https://github.com/ksemele/lemin/blob/main/pic/1.jpg)
+You can open other map from `./maps/` by a `Open map` button.
+Programm show you readed graph.
+![Open test3.map](https://github.com/ksemele/lemin/blob/main/pic/2.jpg)
+If you load solution by a `Open solution` you can clicking on a `Next step` button.
+Programm visualise you every *step* sending ants in a graph.
+
+>For all test maps i already loaded solutions in `./solutions` dir.
+
+![Loaded test3.sol](https://github.com/ksemele/lemin/blob/main/pic/3.jpg)
+In a console you may see all info in text.
