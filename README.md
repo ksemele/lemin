@@ -1,7 +1,7 @@
 # lemin visualiser
 
 The purpose of lemin project is to find paths from start room to end room and to move ants by these paths with the least amount of steps.
-Core version (parser, algorithm) writed with my teammate @cghael in C [link]
+Core version (parser, algorithm) writed with my teammate @cghael in C [link](https://github.com/cghael/21_school_Lemin)
 
 The visualiser is a bonus for visual represent correct maps and solutions.
 Writed in Python.
