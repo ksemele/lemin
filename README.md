@@ -8,8 +8,9 @@ Writed in Python.
 
 # How to run program?
 
-If you use <venv> (highly recommeded)
-make new venv:
+If you use `<venv>` (I highly recommend do this) 
+
+First, make new `<venv>`:
 ```
 $ python3 -m venv venv
 $ source venv/bin/activate
@@ -17,7 +18,7 @@ $ source venv/bin/activate
 (venv)$ ./main.py
 ```
   
-after work don't remember exit venv:
+After work don't remember exit venv:
 ```
 (venv)$ deactivate
 ```
